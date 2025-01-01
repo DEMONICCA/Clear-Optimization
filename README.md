@@ -12,7 +12,6 @@
 
 > [!NOTE]
 > - Support [Ksu](https://github.com/tiann/KernelSU/releases)-[APatch](https://github.com/bmax121/APatch/releases/tag/10763)-[Magisk](https://github.com/topjohnwu/Magisk/releases/tag/v28.0)
-> - Download [Sdmaid](https://play.google.com/store/apps/details?id=eu.thedarken.sdm)
 <hr/>
 
 > [!WARNING]
