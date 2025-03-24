@@ -7,14 +7,13 @@
 
 > [!IMPORTANT]
 > Features 🚀:
-> 1. Optimal GPS Configuration. ✔️
->   - Set parameters in the `flp.conf`, `gps.conf`, and `gnss.conf` files to improve location data collection, geofence responsiveness, and GPS accuracy.
-> 2. SUPL & AGPS Settings. ✔️
->   - Default SUPL server configuration, XTRA support, and NTP synchronization to speed up location discovery.
-> 3. Wider Compatibility. ✔️
->   - The `gps.xml` and `system.prop` files provide additional options that can be customized to be more compatible with different devices and ROMs.
-> 4. Easy Customization. ✔️
->   - Each configuration file is accompanied by comments explaining the function of each parameter so that it can be adjusted according to the needs and characteristics of the device.
+> 1. Wipe Dalvik cache files to improve system performance. ✔️
+> 2. Clean up log and error files from the Dropbox system. ✔️
+> 3. Delete temporary files from various locations. ✔️
+> 4. Cleans up tombstones files which are usually error log files. ✔️
+> 5. Deleting unused empty directories. ✔️
+> 6. Delete thumbnail files that are no longer needed. ✔️
+> 7. Clears the cache on the system and related directories. ✔️
 <hr/>
 
 > [!TIP]
