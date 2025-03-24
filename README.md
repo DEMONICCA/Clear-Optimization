@@ -32,7 +32,6 @@
 > [!CAUTION]
 > Warning ☢️:
 > - This module is used at your own risk. The developer is not responsible for any damage that may result from the installation or use of this module.
-> - This module changes sensitive system settings. Make sure you understand the changes made before installing it.
 > - Use this module at your own risk. Misconfiguration may cause problems such as bootloop or system instability.
 > - Make sure you have access to recovery mode (TWRP/ADB) before installing this module, just in case something goes wrong.
 <hr/>
